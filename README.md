@@ -1,3 +1,3 @@
-# coding_questions
+# Coding_questions
 
 Problems are implemented in C++.
