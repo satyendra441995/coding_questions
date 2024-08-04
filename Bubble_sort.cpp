@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-
+// bubble sort
 void bubble_sort(int arr[],int n)
 {
   int i,j,swapped=0;
@@ -25,7 +25,7 @@ void bubble_sort(int arr[],int n)
 
 }
 
-
+// driver code 
 int main()
 {
   int arr[]={10,0,17,1,25,47,35,56};
